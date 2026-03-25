@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="pgTitle pgDesc">
+  <title id="pgTitle">PostgreSQL Logo</title>
+  <desc id="pgDesc">PostgreSQL inspired elephant mark in official blue tone</desc>
+  <path fill="#336791" d="M64 10c-22 0-37 17-37 42 0 20 8 33 22 43v16c0 4 3 7 7 7h7c4 0 7-3 7-7v-12c3 1 6 1 9 1 13 0 22-9 22-22 0-7-2-13-6-18 4-8 6-15 6-22 0-17-14-28-30-28h-7z"/>
+  <circle cx="76" cy="46" r="5" fill="#fff"/>
+  <circle cx="76" cy="46" r="2" fill="#336791"/>
+  <path fill="#fff" d="M53 72c5 3 11 4 17 4 7 0 13-1 19-4-2 7-9 13-19 13-9 0-15-6-17-13z"/>
+</svg>

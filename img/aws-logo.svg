@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="awsTitle awsDesc">
+  <title id="awsTitle">AWS Logo</title>
+  <desc id="awsDesc">AWS wordmark with smile arrow in official color</desc>
+  <text x="64" y="62" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#232F3E">aws</text>
+  <path d="M27 79c19 14 56 14 74 0" fill="none" stroke="#FF9900" stroke-width="6" stroke-linecap="round"/>
+  <path d="M98 73l6 6-8 1" fill="none" stroke="#FF9900" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

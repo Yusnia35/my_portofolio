@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="nodeTitle nodeDesc">
+  <title id="nodeTitle">Node.js Logo</title>
+  <desc id="nodeDesc">Node.js inspired hexagon mark in official green tone</desc>
+  <polygon points="64,10 108,35 108,93 64,118 20,93 20,35" fill="#83CD29"/>
+  <polygon points="64,22 97,41 97,87 64,106 31,87 31,41" fill="#FFFFFF" opacity="0.96"/>
+  <text x="64" y="66" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" fill="#43853D">no</text>
+  <text x="64" y="86" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#43853D">de</text>
+</svg>

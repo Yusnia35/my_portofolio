@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="phpTitle phpDesc">
+  <title id="phpTitle">PHP Logo</title>
+  <desc id="phpDesc">PHP oval wordmark in official color</desc>
+  <ellipse cx="64" cy="64" rx="54" ry="30" fill="#777BB4"/>
+  <ellipse cx="64" cy="64" rx="50" ry="26" fill="none" stroke="#ffffff" stroke-opacity="0.5" stroke-width="2"/>
+  <text x="64" y="72" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#ffffff">php</text>
+</svg>

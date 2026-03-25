@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="figmaTitle figmaDesc">
+  <title id="figmaTitle">Figma Logo</title>
+  <desc id="figmaDesc">Official Figma mark for UI and UX design representation</desc>
+  <rect x="20" y="8" width="44" height="44" rx="22" fill="#F24E1E"/>
+  <rect x="20" y="42" width="44" height="44" rx="22" fill="#A259FF"/>
+  <rect x="20" y="76" width="44" height="44" rx="22" fill="#0ACF83"/>
+  <rect x="54" y="8" width="44" height="44" rx="22" fill="#FF7262"/>
+  <path d="M76 42a22 22 0 1 0 0 44 22 22 0 0 0 0-44Z" fill="#1ABCFE"/>
+</svg>

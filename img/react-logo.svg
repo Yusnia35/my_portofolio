@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="reactTitle reactDesc">
+  <title id="reactTitle">React Logo</title>
+  <desc id="reactDesc">React atom logo in official cyan color</desc>
+  <g fill="none" stroke="#61DAFB" stroke-width="6">
+    <ellipse cx="64" cy="64" rx="44" ry="18"/>
+    <ellipse cx="64" cy="64" rx="44" ry="18" transform="rotate(60 64 64)"/>
+    <ellipse cx="64" cy="64" rx="44" ry="18" transform="rotate(120 64 64)"/>
+  </g>
+  <circle cx="64" cy="64" r="8" fill="#61DAFB"/>
+</svg>
